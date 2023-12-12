@@ -13,12 +13,14 @@ How to see the project:
 
 7. Enjoy!
 
-  Remember that this app was developed with the Team Manager user experience in mind only ( final project = 2 weeks)
+Remember that this app was developed with the Team Manager user experience in mind only ( final project = 2 weeks)
 
-   Dashboard - general overview of what's happening, injured/limited players, management charts
-   Calendar - we can see team appointments, create new ones, view them, edit and destroy
-   Team Overview - we can add players and staff members, view their profile, edit and destroy
-   Management - we can view charts that were pre-defined
-   Chat - we can create chats, send messages and receive them. (for the sake of our presentation, we created another user to send/receive messages)
+<ul>
+   <il>Dashboard - general overview of what's happening, injured/limited players, management charts</il>
+   <il>Calendar - we can see team appointments, create new ones, view them, edit and destroy</il>
+   <il>Team Overview - we can add players and staff members, view their profile, edit and destroy</il>
+   <il>Management - we can view charts that were pre-defined</il>
+   <il>Chat - we can create chats, send messages and receive them. (for the sake of our presentation, we created another user to send/receive messages)</il>
+</ul>
    
 
